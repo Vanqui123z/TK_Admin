@@ -7,5 +7,5 @@ admin: nguyenvanB@gmail.com
 password: 123456789
 
 2. Ecommerce-selling-shoes: trang web bán giày
-admin: dominh19023@gmail.com
-password: 123456789
+admin: admin@ecommerce.com
+password: 123456
